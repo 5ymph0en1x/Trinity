@@ -15,9 +15,9 @@ Here's a proof-of-concept that illustrates the use of Fast Fourrier Transform to
 
 ------------------------------------
 
-Installation / Execution
+# Installation / Execution
 
-Just download the latest release, install it and launch the exe to see the simulation mode in action with real-time data coming from BitMEX. No API keys needed.
+Just download the latest release, install it and launch the exe to see the simulation mode in action with real-time data coming from BitMEX. No API keys needed. If you want to reset the test, just delete 'order.csv' (if present), 'position.csv' and 'pnl.csv'...
 
 ------------------------------------
 
