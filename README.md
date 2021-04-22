@@ -1,5 +1,5 @@
 # Genesis
-Sophisticated Scalper Bot for BitMEX using cyclical analysis
+Sophisticated Scalper Bot for BitMEX using Brownian Motions
 
 ------------------------------------
 
