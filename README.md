@@ -20,7 +20,7 @@ Here's a proof-of-concept that illustrates the use of GodRays analysis, Fast Fou
 
 ## Installation / Execution
 
-Just download the latest release, install it and launch the exe (as admin) to see the simulation mode in action with real-time data coming from BitMEX. NO API KEYS NEEDED.
+Just download the latest release and launch the exe (as admin) to see the simulation mode in action with real-time data coming from BitMEX. NO API KEYS NEEDED.
 
 ------------------------------------
 
